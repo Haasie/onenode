@@ -4,7 +4,6 @@ kind: HelmRelease
 metadata:
   name: plex
   namespace: default
-
 spec:
   dependsOn:
     - name: cluster-apps-longhorn

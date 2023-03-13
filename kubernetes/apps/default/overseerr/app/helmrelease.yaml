@@ -60,10 +60,10 @@ spec:
           - hosts:
               - *host
     volumeClaimTemplates:
-      - name: config
+      - name: config-overseerr
         mountPath: /app/config
         accessMode: ReadWriteOnce
-        size: 1Gi
+        size: 2Gi
         storageClass: longhorn
     resources:
       requests:
