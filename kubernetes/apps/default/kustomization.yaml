@@ -7,5 +7,5 @@ resources:
   - ./hajimari/ks.yaml
   - ./whoogle/ks.yaml
   - ./plex/ks.yaml
-  - ./whoogle/ks.yaml
+#  - ./whoogle/ks.yaml
   - ./overseerr/ks.yaml
