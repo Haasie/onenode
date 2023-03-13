@@ -5,3 +5,7 @@ resources:
   - ./namespace.yaml
   - ./echo-server/ks.yaml
   - ./hajimari/ks.yaml
+  - ./whoogle/ks.yaml
+  - ./plex/ks.yaml
+  - ./whoogle/ks.yaml
+  - ./overseerr/ks.yaml
